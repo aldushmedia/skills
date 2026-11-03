@@ -1,0 +1,21 @@
+{
+  "name": "hiring-panel-skill",
+  "description": "Siete Claudes intentan rechazar tu currículum (un filtro automático, un reclutador y cinco lectores que lo juzgan cada uno por su cuenta) y luego te lo rehace con cada error corregido.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aldush Media",
+    "url": "https://github.com/aldushmedia"
+  },
+  "homepage": "https://github.com/aldushmedia/skills",
+  "repository": "https://github.com/aldushmedia/skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "resume",
+    "job-search",
+    "hiring",
+    "career",
+    "espanol"
+  ]
+}

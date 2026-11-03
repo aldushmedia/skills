@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "aldushmedia",
+  "description": "Skills de Claude en español · Aldush Media",
+  "owner": {
+    "name": "Aldush Media",
+    "url": "https://github.com/aldushmedia"
+  },
+  "plugins": [
+    {
+      "name": "hiring-panel-skill",
+      "description": "Siete Claudes intentan rechazar tu currículum y luego te lo rehace con cada error corregido.",
+      "source": "./plugins/hiring-panel-skill",
+      "category": "productivity",
+      "homepage": "https://github.com/aldushmedia/skills"
+    }
+  ]
+}
