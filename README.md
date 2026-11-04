@@ -17,6 +17,7 @@ Luego instala la skill que quieras con `/plugin install <nombre>@aldushmedia` y 
 | Skill | Qué hace | Instalar | Usar |
 |---|---|---|---|
 | [hiring-panel-skill](plugins/hiring-panel-skill) | Siete Claudes intentan rechazar tu currículum y luego te lo rehace con cada error corregido | `/plugin install hiring-panel-skill@aldushmedia` | `/hiring-panel <tu currículum> <el puesto>` |
+| [instagram-agent-skill](plugins/instagram-agent-skill) | Trece skills para manejar tu Instagram: Reels con gancho calificado, captions, carruseles, historias, perfil, plan, comentarios, DMs y un humanizador | `/plugin install instagram-agent-skill@aldushmedia` | `/ig-reel <tu idea>` (y las demás `/ig-*`) |
 
 Cada skill trae su propia licencia en su carpeta.
 

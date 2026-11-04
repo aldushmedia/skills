@@ -1,0 +1,23 @@
+{
+  "name": "instagram-agent-skill",
+  "description": "Trece skills de Claude para manejar una cuenta de Instagram, en español: Reels con 26 fórmulas de gancho, gancho calificado y guion cronometrado; investigación de lo que funciona en tu nicho ordenada por múltiplo sobre la mediana de cada cuenta; captions revisados contra el corte del feed; carruseles, historias, calificación del perfil, plan semanal, comentarios, respuestas, DMs, reutilización de contenido, auditorías y un humanizador que quita la huella de IA antes de publicar.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aldush Media",
+    "url": "https://github.com/aldushmedia"
+  },
+  "homepage": "https://github.com/aldushmedia/skills",
+  "repository": "https://github.com/aldushmedia/skills",
+  "license": "MIT",
+  "keywords": [
+    "instagram",
+    "reels",
+    "content",
+    "writing",
+    "humanizer",
+    "social",
+    "marketing",
+    "claude-skills",
+    "espanol"
+  ]
+}

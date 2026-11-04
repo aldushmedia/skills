@@ -13,6 +13,13 @@
       "source": "./plugins/hiring-panel-skill",
       "category": "productivity",
       "homepage": "https://github.com/aldushmedia/skills"
+    },
+    {
+      "name": "instagram-agent-skill",
+      "description": "Trece skills de Claude para manejar tu Instagram: Reels con gancho calificado, investigación de lo que funciona en tu nicho, captions, carruseles, historias, perfil, plan semanal, comentarios, DMs y un humanizador.",
+      "source": "./plugins/instagram-agent-skill",
+      "category": "productivity",
+      "homepage": "https://github.com/aldushmedia/skills"
     }
   ]
 }
